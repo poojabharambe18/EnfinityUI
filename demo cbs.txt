@@ -1,0 +1,9 @@
+deployemt strateges
+
+meeting with demo cbs realted
+flow explain local to devops main (demo)  next (QA/QC) next (VAPt) ---gozariya live  (live DB)  (currect  production DB)
+starting to loacal se devops main ek branch hai usmai harme sources  code rahega  version updates krna pdega (jenkins mai increment version hoga +1 one se )
+developer sides se kuch challenges thee (branch realted thee)
+db red kitna kitne database rahega ek (demo ke liye)  and (hamara main rahega db)
+
+updated cycle (developer) next (QA/QC) next (VAPt)  deployemt cycle
