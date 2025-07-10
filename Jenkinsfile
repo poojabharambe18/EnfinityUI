@@ -23,7 +23,7 @@ pipeline {
         stage('Install Dependencies') {
             steps {
                 echo 'Installing npm packages...'
-                sh 'npm install'
+                sh 'npm install --force'
             }
         }
 
