@@ -2,7 +2,7 @@ pipeline {
     agent { label 'jenkins-agent1' }
 
     tools {
-        nodejs 'nodejs20'
+        nodejs 'node20'
     }
 
     environment {
