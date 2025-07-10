@@ -9,7 +9,7 @@ pipeline {
         SONAR_PROJECT_KEY = 'frontend-profile'
         SONAR_HOST_URL = 'http://10.14.1.49:9000'
         SONAR_TOKEN = 'sqp_05341675b56c3f5b904c2563b78b1886413dde93'
-        SONARQUBE_SCANNER_HOME = tool 'sonar-scanner'
+        SONARQUBE_SCANNER_HOME = tool 'sonarqube-token'
     }
 
     stages {
